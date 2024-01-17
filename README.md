@@ -1,5 +1,5 @@
 ### Hi there, I'm Michael 👋
-👨‍💻 Passionate developer who loves to work with both frontend and backend \
+👨‍💻 Software Developer who loves to work with both frontend and backend \
 💁 24 years old
 
 
