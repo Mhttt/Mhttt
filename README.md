@@ -1,7 +1,7 @@
 ### Hi there, I'm Michael 👋
 👨‍💻 Software Developer who loves to work with both frontend and backend \
-💁 24 years old
-🎾 Challenge me in padel!
+💁 24 years old \
+🎾 Challenge me in padel! \
 
 
 <!--
