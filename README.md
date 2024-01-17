@@ -1,4 +1,7 @@
 ### Hi there, I'm Michael 👋
+👨‍💻 I'm a passionate developer who loves to work with both frontend and backend
+💁 24 years old
+
 
 <!--
 **Mhttt/Mhttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
