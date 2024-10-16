@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael 👋
 👨‍💻 Software Developer who loves to work with both frontend and backend \
-💁 24 years old \
+💁 25 years old \
 👷 Currently working on Teemio
 
 
