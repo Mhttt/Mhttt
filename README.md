@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael 👋
 👨‍💻 Software Developer who loves to work with both frontend and backend \
-💁 26 years old \
+💁 27 years old \
 👷 Co-Developer of TrustMarket: https://trustmarket.dk/
 
 
